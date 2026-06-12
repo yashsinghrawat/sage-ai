@@ -190,4 +190,4 @@ if __name__ == "__main__":
         result = ask_sage(problem)
         print_result(result)
  
-    print("\n Day 3 naive RAG pipeline complete. Run `python src/rag_hyde.py` next.")
+    print("\n Day 3 naive RAG pipeline complete.")
