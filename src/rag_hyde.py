@@ -175,4 +175,4 @@ if __name__ == "__main__":
         result = ask_sage_hyde(problem)
         print_result(result)
  
-    print("\n✅ Day 5 HyDE RAG pipeline complete. Run `python src/rag_rerank.py` next.")
+    print("\n✅ Day 5 HyDE RAG pipeline complete.")

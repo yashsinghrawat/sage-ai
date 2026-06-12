@@ -587,4 +587,4 @@ if __name__ == "__main__":
     shlokas = load_sample_data()
     save_shlokas(shlokas)
     print_summary(shlokas)
-    print("✅ Day 1 ingestion complete. Run `python src/embeddings.py` next.")
+    print("✅ Day 1 ingestion complete.")
