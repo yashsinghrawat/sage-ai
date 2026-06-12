@@ -123,4 +123,4 @@ if __name__ == "__main__":
     test_retrieval(collection, "I feel weak and like a coward, I want to give up")
     print("\n──────────────────────────────────────────────────────────")
  
-    print("\n Day 2 embedding pipeline complete. Run `python src/rag_naive.py` next.")
+    print("\n Day 2 embedding pipeline complete")
