@@ -1,0 +1,35 @@
+# Core RAG stack
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+ 
+# Vector store
+chromadb==0.5.3
+ 
+# Embeddings
+sentence-transformers==3.0.1
+ 
+# LLM API
+groq==0.9.0
+ 
+# Evaluation
+ragas==0.1.14
+datasets==2.20.0
+ 
+# Backend
+fastapi==0.111.1
+uvicorn==0.30.3
+pydantic==2.8.2
+ 
+# Frontend
+streamlit==1.36.0
+plotly==5.22.0
+ 
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+ 
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+tqdm==4.66.4
