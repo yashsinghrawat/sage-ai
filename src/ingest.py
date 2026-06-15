@@ -7,7 +7,10 @@ What this file does:
 1. Fetches all 700 Bhagavad Gita shlokas from a public API
 2. Enriches each shloka with emotion tags and topic metadata
 3. Saves a clean, structured JSON to data/gita_shlokas.json
+<<<<<<< HEAD
  
+=======
+>>>>>>> main
 
 """
  
@@ -587,4 +590,5 @@ if __name__ == "__main__":
     shlokas = load_sample_data()
     save_shlokas(shlokas)
     print_summary(shlokas)
-    print("✅ Day 1 ingestion complete.")
+
+    print(" Day 1 ingestion complete.")
